@@ -46,10 +46,15 @@ https://github.com/user-attachments/assets/eb8da8be-4c95-493a-8b3f-b23c512ba0db
 ### 🔩 Hardware
 
 - **Microcontroller**: ESP32-S3
-- **LEDs**: 8 × WS2812B RGB LEDs
-- **Button**: Red anodized aluminum push button (momentary)
+- **LEDs**: 8 × WS2812B RGB LEDs (You can get premade rings by I've made this from scratch by cutting strip into pieces and soldering together 🤦)
+- **Button**: Red anodized aluminum push button (momentary) I bought few on [AliExpress](https://a.aliexpress.com/_EvYcgQm)
 - **Power/Data**: Standard USB cable (USB HID capable)
 - **Enclosure**: Custom 3D-printed case with hidden LEDs and center-mounted button
+- **Other Materials**:  
+  - *Hot glue* — to fill the gaps around the button  
+  - *White silicone* — to fill the "ship it!" text  
+  - *M2.5 screws & inserts* — to secure the back cover  
+  - *12mm × 2mm rubber pads* — to cover the screws and reduce sliding
 
 ### 🧱 3D Model
 
