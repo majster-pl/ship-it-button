@@ -48,6 +48,12 @@ https://github.com/user-attachments/assets/eb8da8be-4c95-493a-8b3f-b23c512ba0db
 - **Power/Data**: Standard USB cable (USB HID capable)
 - **Enclosure**: Custom 3D-printed case with hidden LEDs and center-mounted button
 
+### 🧱 3D Model
+
+- Designed using [Tinkercad](https://www.tinkercad.com/)
+- `.stl` files included in this repository
+- Printed on a **Creality Ender 3 V3 SE** 3D printer using PLA
+
 ### 🧠 Built With
 
 - [FastLED](https://github.com/FastLED/FastLED) – RGB LED control
