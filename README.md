@@ -29,13 +29,13 @@ https://github.com/user-attachments/assets/eb8da8be-4c95-493a-8b3f-b23c512ba0db
 - **"Ship it!" Engraving**: Stylish engraving right under the button for extra flair.
 - **USB Plug & Play**: Acts as a keyboard when connected via USB.
 
-### 🔧 Behavior
+### 🔧 🚥
 
 | Action             | Result                                                                 |
 |--------------------|------------------------------------------------------------------------|
-| Plug in USB        | LEDs perform a **red breathing animation**, then fade to black (standby) |
-| Press the button   | Triggers the **OBC launch animation** (purple LED chase effect), then sends `:ship: ship it! :rocket:` as keyboard input followed by `Enter` |
-| Standby Mode       | LEDs stay off until the next press or animation |
+| Plug in USB        | LEDs perform a **red breathing animation**, then fade to black (standby) 🚥 |
+| Press the button   | Triggers the **OBC launch animation** (purple LED chase effect), then sends `:ship: ship it! :rocket:` (**🚢 ship it! 🚀**) as keyboard input followed by `Enter` - ideal for Slack message ✅ |
+| Standby Mode       | LEDs stay off until the next button press or randomly every 1-20min red breathing animation with random number of breaths will kick in 🙂 |
 
 ### 🌀 Animations
 
