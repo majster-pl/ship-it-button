@@ -17,6 +17,9 @@ https://github.com/user-attachments/assets/f34a8139-bcb4-40e1-bdf6-34d7109cfc78
 ## On button pressed animation
 https://github.com/user-attachments/assets/eb8da8be-4c95-493a-8b3f-b23c512ba0db
 
+## Schematic
+<img width="601" height="539" alt="image" src="https://github.com/user-attachments/assets/c3218229-b406-46ed-9233-f086b9203eab" />
+
 
 ### ✨ Features
 
