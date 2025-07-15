@@ -1,0 +1,11 @@
+.DS_Store
+*.bak
+*.tmp
+*.swp
+*.bin
+*.hex
+*.elf
+*.log
+__pycache__/
+build/
+*.zip
