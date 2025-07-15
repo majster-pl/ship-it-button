@@ -2,6 +2,9 @@
 
 A 3D-printed USB device designed for dramatic deployments.
 
+<img width="483" height="440" alt="image" src="https://github.com/user-attachments/assets/cae01b6b-9f5a-4738-9d07-b4ed72ecd1d3" />
+
+
 ## Ship It Box
 ![Ship It Box](https://github.com/user-attachments/assets/30700b1f-ec0a-4ca5-b91c-f6386e393e66)
 
