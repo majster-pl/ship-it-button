@@ -14,6 +14,9 @@ A 3D-printed USB device designed for dramatic deployments.
 ## Back Cover
 ![Back Cover](https://github.com/user-attachments/assets/3225b654-8a4f-4e9f-9bf7-43d51b969906)
 
+## Back Cover with pads
+![shipit-back_3](https://github.com/user-attachments/assets/9658b8cf-ac2f-4be9-ae61-b70c6dd3d4f5)
+
 ## Start up animation
 https://github.com/user-attachments/assets/f34a8139-bcb4-40e1-bdf6-34d7109cfc78
 
