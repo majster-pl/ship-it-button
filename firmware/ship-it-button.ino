@@ -135,6 +135,7 @@ void updateChase(uint8_t &pos, unsigned long &lastUpdate, float delayTime) {
 
 void shipItCommand() {
   Keyboard.print(":ship: ship it! :rocket:");
+  delay(200);
   Keyboard.write(KEY_RETURN); 
   delay(10);
   Keyboard.releaseAll();
